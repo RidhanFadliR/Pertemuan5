@@ -1,0 +1,61 @@
+/* Styles for the navbar */
+.navbar {
+    background-color: #fff;
+    border-bottom: 1px solid #ccc;
+}
+
+.navbar h1 {
+    font-size: 36px;
+    color: #333;
+    margin: 0;
+}
+
+.navbar-nav a {
+    text-decoration: none;
+    color: #333;
+    margin: 0 20px;
+}
+
+/* Styles for sections */
+.section {
+    padding: 50px 0;
+    text-align: center;
+}
+
+.section h1 {
+    font-size: 36px;
+    color: #333;
+}
+
+.section p {
+    font-size: 18px;
+    color: #666;
+}
+
+/* Additional styles for cards or other elements */
+.card {
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    padding: 10px;
+    margin: 10px;
+}
+
+.card img {
+    max-width: 100%;
+    height: auto;
+}
+
+/* Styles for buttons */
+.btn {
+    background-color: #ffcc00;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+.btn:hover {
+    background-color: #ff9900;
+}
